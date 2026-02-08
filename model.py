@@ -1,5 +1,7 @@
 import os
+import logging as log
 
+log.basicConfig(level=log.INFO)
 def double(input1: int) -> int:
     """_summary_
 
@@ -14,5 +16,5 @@ def double(input1: int) -> int:
 #result = double(13)
 if __name__ == "__main__":
     current_folder = os.listdir()
-    print(f"Current folder: {current_folder}")
+    log.info(f"Current folder: {current_folder}")
 
