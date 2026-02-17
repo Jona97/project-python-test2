@@ -1,0 +1,5 @@
+outs:
+- md5: 9b509e177c1b13ad8e160ec6c96fbed9
+  size: 1644
+  hash: md5
+  path: mycode.zip
