@@ -1,2 +1,10 @@
 pytest
 Flask
+mlflow
+scikit-learn
+pandas
+xgboost
+joblib
+matplotlib
+shap
+pycaret
