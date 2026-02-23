@@ -208,3 +208,12 @@ __marimo__/
 
 ## to exclude credentials
 .env
+/mycode.zip
+
+
+mlruns/
+mlflow.db
+*.pkl
+*.joblib
+*.png
+*.html
